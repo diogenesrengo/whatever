@@ -1,2 +1,2 @@
-# gigared argentina wifi passwords
+# gigared-argentina-wifi-passwords
 see ssid-mac-key.txt file
